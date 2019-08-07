@@ -5,9 +5,9 @@ Test implementation of getmin function of O(1) running time requiring O(n) memor
 
 0. type "git clone --recurse-submodules https://github.com/twighty/getmin.git" (without quotes) in the command line.
 IMPORTANT: the program requires libft to operate. Please make sure you have downloaded all the submodules, otherwise the program will not compile.
-1a. type "make" (without quotes) in the command line while being in the directory of the program;
-1b. "make clean" to delete *.o files required for compiling;
-1c. "make re" to recompile *.o files and the program.
+1. type "make" (without quotes) in the command line while being in the directory of the program;
+2. "make clean" to delete *.o files required for compiling;
+3. "make re" to recompile *.o files and the program.
 
 # Usage:
 
