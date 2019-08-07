@@ -11,6 +11,7 @@ IMPORTANT: the program requires libft to operate. Please make sure you have down
 
 # Usage:
 
+0. run "getmin" to execute the program.
  - type "push" and then the value on the new line to place a new element containing the specified value on the top of the stack;
  - "pop" to remove the top element from the stack;
  - "peek" to display the value of the top element;
